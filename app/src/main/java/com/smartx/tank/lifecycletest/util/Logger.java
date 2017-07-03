@@ -1,4 +1,4 @@
-package com.smartx.tank.lifecycletest;
+package com.smartx.tank.lifecycletest.util;
 
 import android.content.Context;
 import android.util.Log;

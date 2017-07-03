@@ -1,7 +1,9 @@
-package com.smartx.tank.lifecycletest;
+package com.smartx.tank.lifecycletest.page;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.smartx.tank.lifecycletest.R;
 
 public class SecondActivity extends AppCompatActivity {
 
